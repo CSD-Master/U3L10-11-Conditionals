@@ -8,7 +8,7 @@ layout: tabbed-assignment
 * [Presentation Slides][slides]
 {% endif %}
 {% if site.data.assignment.template %}
-* [Submission Template][template]
+* View the [submission template][template] - make a [copy of the submission template][copy-template]
 {% endif %}
 * [Lesson1][]
 {% if site.data.assignment.lesson2 %}
