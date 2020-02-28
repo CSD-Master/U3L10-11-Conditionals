@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Explore **Boolean expressions** and **conditional statements** by working through [Lesson 11: Conditionals].
+1. Explore **Boolean expressions** and **conditional statements** by working through [Lesson 11: Booleans & Conditionals].
 1. Be sure to check out Step 12 - Booleans and conditionals are the heart of the "inteligence" of computers, it is important to become comfortable reading and writing them.
 1. Check out what happens when you press the plus sign at the bottom of the **if** block.
 
