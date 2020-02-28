@@ -6,9 +6,11 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Evaluate simple and compound boolean expressions:
+  - plane.x > 400
+  - plane.x > 25 && plane.x < 375
+* Use the value of a Boolean statement to determine whether a command should be executed.
+* Use conditionals to react to changes in variables and sprite properties
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
