@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<!--img class="overview-image" src=""-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson you'll see how computers make decisions - using Boolean expressions and conditional statements. Are there questions that can't be turned into true/false questions? Does this mean that there are questions that a computer can **never** answer?
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
