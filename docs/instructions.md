@@ -8,7 +8,7 @@ layout: tabbed-assignment
 1. Be sure to check out Step 12 - Booleans and conditionals are the heart of the "inteligence" of computers, it is important to become comfortable reading and writing them.
 1. Check out what happens when you press the plus sign at the bottom of the **if** block.
 
-  <image src="assets/images/if-block.png">
+   <image src="assets/images/if-block.png">
 
    When do you think the code placed there gets executed? Can you use it to simplify the challenge at Step 12?
 
